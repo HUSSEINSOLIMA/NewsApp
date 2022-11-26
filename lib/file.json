@@ -1,0 +1,267 @@
+{
+    "status":"ok",
+    "totalResults":999,
+    "articles":
+    [
+       {
+          "source":{
+             "id":null,
+             "name":"YouTube"
+          },
+          "author":null,
+          "title":"¿Esperanza en la lucha contra el alzheimer?: un nuevo fármaco retrasa el deterioro cognitivo - FRANCE 24 Español",
+          "description":"En un gran ensayo clínico, las farmacéuticas Biogen y Eisi comprobaron que su nuevo tratamiento retrasa el deterioro provocado por el alzheimer al menos en u...",
+          "url":"https://www.youtube.com/watch?v=2_Pe6iZiP-s",
+          "urlToImage":"https://i.ytimg.com/vi/2_Pe6iZiP-s/hqdefault.jpg",
+          "publishedAt":"2022-09-28T14:26:46Z",
+          "content":null
+       },
+       {
+          "source":{
+             "id":null,
+             "name":"Porcicultura.com"
+          },
+          "author":null,
+          "title":"Reporte de mercado: Los precios de la carne de cerdo fresca tienden a la baja y los precios de los tocinos no se alcanzan - Porcicultura.com",
+          "description":"El reporte elaborado por la Consultoría Steiner and Company, ?Los precios de la carne de cerdo fresca tienden a la baja y los precios de los tocinos no se alcanzan?, refiere lo siguiente",
+          "url":"https://www.porcicultura.com/destacado/reporte-de-mercado-los-precios-de-la-carne-de-cerdo-fresca-tienden-a-la-baja-y-los-precios-de-los-tocinos-no-se-alcanzan",
+          "urlToImage":"https://secure.porcicultura.com/magazine/Magazine633328669463a_27092022.jpg",
+          "publishedAt":"2022-09-28T14:19:06Z",
+          "content":null
+       },
+       {
+          "source":{
+             "id":null,
+             "name":"ámbito.com"
+          },
+          "author":"ámbito.com",
+          "title":"Dólar hoy: a cuánto opera este miércoles 28 de septiembre de 2022 - ámbito.com",
+          "description":"Mirá a cuánto cotiza el dólar, dólar blue, dólar ahorro, el dólar turista, dólar MEP, dólar CCL y dólar cripto en la Argentina.",
+          "url":"https://www.ambito.com/finanzas/dolar/hoy-cuanto-opera-este-miercoles-28-septiembre-2022-n5546124",
+          "urlToImage":"https://media.ambito.com/p/bc64f732baa05f99149afd2542af7c61/adjuntos/239/imagenes/040/116/0040116515/billetes-un-dolarjpg.jpg",
+          "publishedAt":"2022-09-28T14:16:00Z",
+          "content":"El Banco Central (BCRA) compró el martes u$s324 millones, con lo que sumó la decimosexta jornada consecutiva con saldo positivo en sus intervenciones, desde que se implementó un tipo de cambio especi… [+1828 chars]"
+       },
+       {
+          "source":{
+             "id":null,
+             "name":"BNamericas"
+          },
+          "author":null,
+          "title":"Petrobras firma contrato para construir la p... - BNamericas",
+          "description":"Una unidad de “nueva generación” tendrá alta capacidad de producción y será instalada en el campo de Búzios.",
+          "url":"https://www.bnamericas.com/es/noticias/petrobras-firma-contrato-para-construir-la-plataforma-p-83",
+          "urlToImage":"https://www.bnamericas.com/assets/img/opengraphbna.jpg",
+          "publishedAt":"2022-09-28T14:14:37Z",
+          "content":"+21,000 proyectos en Latinoamérica. \r\n+28,600empresas del mundo que hacen negocios en la región. \r\n+58.700contactos clave relacionados a empresas y proyectos. \r\nAnálisis, reportajes, noticias y entre… [+56 chars]"
+       },
+       {
+          "source":{
+             "id":null,
+             "name":"BNamericas"
+          },
+          "author":null,
+          "title":"BID Invest e IFC se asocian con HDF Energy y... - BNamericas",
+          "description":"Este proyecto tiene como objetivo proporcionar electricidad a 16.000 hogares de Barbados a una tarifa competitiva, ayudando a reducir las emisiones y agregar...",
+          "url":"https://www.bnamericas.com/es/noticias/bid-invest-e-ifc-se-asocian-con-hdf-energy-y-rubis-para-desarrollar-la-primera-planta-de-energia-de-hidrogeno-verde-en-barbados",
+          "urlToImage":"https://www.bnamericas.com/assets/img/opengraphbna.jpg",
+          "publishedAt":"2022-09-28T14:06:42Z",
+          "content":"+21,000 proyectos en Latinoamérica. \r\n+28,600empresas del mundo que hacen negocios en la región. \r\n+58.700contactos clave relacionados a empresas y proyectos. \r\nAnálisis, reportajes, noticias y entre… [+56 chars]"
+       },
+       {
+          "source":{
+             "id":null,
+             "name":"derStandard.de"
+          },
+          "author":null,
+          "title":"Eigentümerwechsel bei P3tv: Mitarbeiter übernehmen regionalen TV Sender - DER STANDARD",
+          "description":"Agrarverlag gab niederösterreichischen Sender im Rahmen eines Employee-buy-outs wieder ab",
+          "url":"https://www.derstandard.de/story/2000139509864/eigentuemerwechsel-bei-p3tvmitarbeiter-uebernehmen-regionalen-tv-sender-p3tv",
+          "urlToImage":"https://i.ds.at/-updkg/rs:fill:1200:600/plain/2022/09/28/p3.png",
+          "publishedAt":"2022-09-28T14:00:00Z",
+          "content":"Sie entscheiden darüber, wie Sie unsere Inhalte nutzen wollen. Ihr Gerät erlaubt uns derzeit leider nicht, die entsprechenden Optionen anzuzeigen.\r\nBitte deaktivieren Sie sämtliche Hard- und Software… [+180 chars]"
+       },
+       {
+          "source":{
+             "id":"google-news",
+             "name":"Google News"
+          },
+          "author":null,
+          "title":"Cinco gráficos que ponen en entredicho la idea de una recesión, al menos una inminente - Funds People",
+          "description":null,
+          "url":"https://news.google.com/__i/rss/rd/articles/CBMicWh0dHBzOi8vZnVuZHNwZW9wbGUuY29tL2VzL2NpbmNvLWdyYWZpY29zLXF1ZS1wb25lbi1lbi1lbnRyZWRpY2hvLWxhLWlkZWEtZGUtdW5hLXJlY2VzaW9uLWFsLW1lbm9zLXVuYS1pbm1pbmVudGUv0gEA?oc=5",
+          "urlToImage":null,
+          "publishedAt":"2022-09-28T13:59:44Z",
+          "content":null
+       },
+       {
+          "source":{
+             "id":null,
+             "name":"MarketWatch"
+          },
+          "author":"Jamie Chisholm",
+          "title":"Gilt yields plunge after Bank of England steps in to buy at 'whatever scale is necessary' - MarketWatch",
+          "description":"U.K. gilt yields fell from their highest in 14 years after the Bank of England said it would buy bonds at \"whatever scale is necessary\" to restore orderly...",
+          "url":"https://www.marketwatch.com/story/gilt-yields-plunge-after-bank-of-england-steps-in-to-buy-at-whatever-scale-is-necessary-11664362299",
+          "urlToImage":"https://images.mktw.net/im-632475/social",
+          "publishedAt":"2022-09-28T13:53:00Z",
+          "content":"U.K. gilt yields fell back from their highest in 14 years after the Bank of England said it would buy bonds at whatever scale is necessary to restore orderly market conditions.The 10-year benchmark g… [+4286 chars]"
+       },
+       {
+          "source":{
+             "id":null,
+             "name":"Auto10.com"
+          },
+          "author":"Mario Martínez",
+          "title":"El primer sistema de radar para que nadie se quede dentro del coche es de Volvo - Auto10",
+          "description":"Volvo ha diseñado un radar para el interior del coche que servirá para asegurarse de que nadie se quede olvidado dentro del coche.",
+          "url":"https://www.auto10.com/reportajes/conoce-el-sistema-de-radar-que-ha-disenado-volvo-para-que-nadie-se-quede-dentro-del-coche/21147",
+          "urlToImage":"https://a0.cdnfan.com/images/M/7/4/1/1/radar-volvo_bm_145835.jpg",
+          "publishedAt":"2022-09-28T13:52:22Z",
+          "content":"Volvo ha diseñado un radar para el interior del coche que servirá para asegurarse de que nadie se quede olvidado dentro del coche.\r\nEl próximo Volvo EX90, el SUV eléctrico de la marca sueca será el p… [+2400 chars]"
+       },
+       {
+          "source":{
+             "id":null,
+             "name":"swissinfo.ch"
+          },
+          "author":"Reuters/dos",
+          "title":"Multa de 200 millones de dólares para UBS y Credit Suisse - SWI swissinfo.ch en español",
+          "description":"Los dos bancos suizos han sido multados en el marco de una amplia investigación estadounidense sobre la falta de conservación de las comunicaciones electrónicas.",
+          "url":"https://www.swissinfo.ch/spa/economia/multa-de-200-millones-de-d%C3%B3lares-para-ubs-y-credit-suisse/47937464",
+          "urlToImage":"https://www.swissinfo.ch/resource/image/47936018/landscape_ratio16x9/1920/1080/e3b790ac6e5ff416be20dd5983813d9a/B804649D0BAD7F49BA40CBE8DE701781/340347294_highres.jpg",
+          "publishedAt":"2022-09-28T13:50:42Z",
+          "content":"Los dos mayores bancos suizos han sido multados con 200 millones de dólares cada uno (199 millones de francos) en el marco de una investigación a gran escala en Estados Unidos sobre la falta de conse… [+2513 chars]"
+       },
+       {
+          "source":{
+             "id":null,
+             "name":"Volksblatt.at"
+          },
+          "author":"OÖ Volksblatt",
+          "title":"„Versandkosten Wucher!“- Bundesgerichtshof erlaubt Kundenkritik auf Ebay - Oberösterreichisches Volksblatt",
+          "description":"Wer nach einem Geschäft über die Internetplattform Ebay verärgert ist, kann seine Kritik – rechtlich abgesichert – auch mit harschen Worten und überzogen formulieren. Diese darf nach einem Urteil des deutschen Bundesgerichtshofs (BGH) vom Mittwoch nur keine S…",
+          "url":"https://volksblatt.at/wirtschaft/versandkosten-wucher-bundesgerichtshof-erlaubt-kundenkritik-auf-ebay-723264/",
+          "urlToImage":"https://volksblatt.at/wp-content/overlay/2022/09/28/723264-134613-VersandkostenWuc-volksblatt.jpg",
+          "publishedAt":"2022-09-28T13:44:54Z",
+          "content":"Wer nach einem Geschäft über die Internetplattform Ebay verärgert ist, kann seine Kritik – rechtlich abgesichert – auch mit harschen Worten und überzogen formulieren. Diese darf nach einem Urteil des… [+3646 chars]"
+       },
+       {
+          "source":{
+             "id":null,
+             "name":"DW (English)"
+          },
+          "author":"Deutsche Welle (www.dw.com)",
+          "title":"Lagarde anuncia próximas subidas de tipos de interés para combatir la inflación - DW (Español)",
+          "description":"",
+          "url":"https://www.dw.com/es/lagarde-anuncia-pr%C3%B3ximas-subidas-de-tipos-de-inter%C3%A9s-para-combatir-la-inflaci%C3%B3n/a-63269019",
+          "urlToImage":"https://static.dw.com/image/62556685_6.jpg",
+          "publishedAt":"2022-09-28T13:37:38Z",
+          "content":"La presidenta del BCE, el Banco Central Europeo, Christine Lagarde, anunció este miércoles (28.09.2022) nuevas subidas de los tipos de interés en las próximas reuniones del consejo de la entidad para… [+834 chars]"
+       },
+       {
+          "source":{
+             "id":null,
+             "name":"Finanzen.net"
+          },
+          "author":"finanzen.net Redaktion",
+          "title":"Verlustreduktion an Frankfurter Börse: DAX wieder über 12.000er-Marke - finanzen.net",
+          "description":"Der DAX gerät am Mittwoch unter Druck und testet zeitweise sogar die 11.900-Punkte-Marke.",
+          "url":"https://www.finanzen.net/nachricht/aktien/dax-marktbericht-wall-street-stuetzt-frankfurter-boerse-dax-dreht-in-die-gewinnzone-11748631",
+          "urlToImage":"https://images.finanzen.net/mediacenter/unsortiert/DAX_boerse_frankfurt0009_gr.jpg",
+          "publishedAt":"2022-09-28T13:37:00Z",
+          "content":"Der DAX war am Mittwoch zunächst mit einem Abschlag von 0,94 Prozent bei 12.025,43 Punkten gestartet. Im weiteren Verlauf geht es für den deutschen Leitindex zeitweise bis auf 11.862,84 Zähler nach u… [+3077 chars]"
+       },
+       {
+          "source":{
+             "id":null,
+             "name":"Fxstreet.es"
+          },
+          "author":"Equipo FXStreet",
+          "title":"Wall Street Hoy (S&P 500) (Nasdaq): Los problemas de Apple, el cambio del Banco de Inglaterra...otro día tranquilo - FXStreet",
+          "description":"Esto es lo que necesita saber para operar hoy miércoles 28 de septiembre: La volatilidad no tiene límites mientras navegamos realmente por tiempos sin",
+          "url":"https://www.fxstreet.es/news/wall-street-hoy-spy-qqq-los-problemas-de-apple-el-cambio-del-banco-de-inglaterra-otro-dia-tranquilo-202209281336",
+          "urlToImage":"https://editorial.fxstreet.com/images/Markets/Equities/SP500/wall_street_nyse3-637299021683820849_Large.jpg",
+          "publishedAt":"2022-09-28T13:36:46Z",
+          "content":"Esto es lo que necesita saber para operar hoy miércoles 28 de septiembre:\r\nLa volatilidad no tiene límites mientras navegamos realmente por tiempos sin precedentes. Este autor ha estado en los mercad… [+3197 chars]"
+       },
+       {
+          "source":{
+             "id":null,
+             "name":"Fxstreet.es"
+          },
+          "author":"Equipo FXStreet",
+          "title":"AUD/USD Análisis del Precio: Rebota desde mínimos de dos años, pero aún no está fuera de peligro - FXStreet",
+          "description":"El par AUD/USD se recupera desde su nivel más bajo desde abril de 2020, alcanzado a principios de este miércoles, aunque carece de convicción alcista.",
+          "url":"https://www.fxstreet.es/news/aud-usd-analisis-del-precio-rebota-desde-minimos-de-dos-anos-pero-aun-no-esta-fuera-de-peligro-202209281333",
+          "urlToImage":"https://editorial.fxstreet.com/images/Markets/Currencies/Majors/AUDUSD/australian-coins-3660349_Large.jpg",
+          "publishedAt":"2022-09-28T13:33:56Z",
+          "content":"<ul><li>Una combinación de factores ayuda a que el AUD/USD rebote desde un mínimo de dos años.</li><li>El retroceso de los rendimientos de los bonos de EE.UU. provoca una toma de beneficios en el dól… [+2418 chars]"
+       },
+       {
+          "source":{
+             "id":null,
+             "name":"Revistabyte.es"
+          },
+          "author":null,
+          "title":"Congreso Finance Meeting, así es la metodología Agile - Revista Byte TI",
+          "description":"Durante el Congreso Finance Meeting 2022 se ha puesto el foco en los tres grandes retos que experimentan ahora mismo los directores...",
+          "url":"https://revistabyte.es/actualidad-it/finance-meeting/",
+          "urlToImage":"https://revistabyte.es/wp-content/uploads/2022/09/metodologia-agile-en-el-congreso-finance-meeting.jpg",
+          "publishedAt":"2022-09-28T13:33:29Z",
+          "content":"Durante el Congreso Finance Meeting 2022 se ha puesto el foco en los tres grandes retos que experimentan ahora mismo los directores financieros: la crisis energética y de la cadena de suministros, el… [+2923 chars]"
+       },
+       {
+          "source":{
+             "id":null,
+             "name":"Euronews"
+          },
+          "author":null,
+          "title":"Fed llevará tasas a un nivel más alto que el esperado; más dolor por delante - Euronews Español",
+          "description":"Por Indradip Ghosh",
+          "url":"https://es.euronews.com/next/2022/09/28/fed-tasas",
+          "urlToImage":"https://static.euronews.com/articles/wires/881/14/8811472/1000x563_n47mys.jpg",
+          "publishedAt":"2022-09-28T13:33:24Z",
+          "content":"Por Indradip Ghosh\r\nBENGALURU, 28 sep – La Reserva Federal subirá su tasa de interés de referencia a un techo mucho más alto de lo pronosticado hace dos semanas y los riesgos están sesgados hacia una… [+3577 chars]"
+       },
+       {
+          "source":{
+             "id":null,
+             "name":"Sina.com.cn"
+          },
+          "author":"新浪汽车原创",
+          "title":"售18.59- 24.99万元东风本田全新一代CR-V正式上市 - Sina",
+          "description":"9月28日，东风本田全新一代CR-V正式上市，新车是CR-V的第六代全新车型，外观内饰进行了较大的调整，同时配置有进一步提高。动力方面搭载1.5T涡轮增压发动机+CVT；未来还将推出搭载采用2.0L第四代双电机混动系统的“e：HEV强电智混”技术的HEV/PHEV车型。新车本次共推出7款车型，均为SPORT TURBO锐·T动汽油版车型，售价区间为18.59- 24.99万元。",
+          "url":"https://auto.sina.com.cn/newcar/2022-09-28/detail-imqqsmrp0852856.shtml",
+          "urlToImage":"https://n.sinaimg.cn/auto/transform/384/w710h474/20220928/a2fd-a1f155f02c1a316a44c9df9244854bbd.jpg",
+          "publishedAt":"2022-09-28T13:32:23Z",
+          "content":null
+       },
+       {
+          "source":{
+             "id":null,
+             "name":"Pv-magazine-latam.com"
+          },
+          "author":"",
+          "title":"Polar Developments lanza una estación fotovoltaica portátil y escalable de hasta 24 m y 84 kWp - pv magazine Latin America",
+          "description":"La presentación del “Container” se realizó en AUTOPÍA, el 1º evento alimentado con energía solar que se celebró en El Bosque del Santander, en las afueras de la capital española, y acogió más de 400 vehículos de exposición.",
+          "url":"https://www.pv-magazine-latam.com/2022/09/28/polar-developments-lanza-una-estacion-fotovoltaica-portatil-y-escalable-de-hasta-24-m-y-84-kwp/",
+          "urlToImage":"https://www.pv-magazine-latam.com/wp-content/uploads/sites/3/2022/09/container-1024x473-1.jpg",
+          "publishedAt":"2022-09-28T13:30:46Z",
+          "content":"La firma madrileña Polar Developments ha compartido con pv magazine que presentó su PolarGreen Container el sábado pasado en AUTOPÍA, un evento que se celebró en El Bosque del Santander, en Boadilla … [+2598 chars]"
+       },
+       {
+          "source":{
+             "id":null,
+             "name":"Estrategiasdeinversion.com"
+          },
+          "author":"Redacción / Estrategias de Inversión",
+          "title":"Wall Street intenta un rebote desde mínimos con el bono a 10 años rondando el 4% - Estrategias de inversión",
+          "description":"Apertura mixta de Wall Street, con el Dow Jones y el S&P 500 intentando un tímido rebote desde sus mínimos del año al calor de la actuación del Banco de Inglaterra para calmar a los mercados. La rentabilidad del bono estadounidense a diez años extiende sus su…",
+          "url":"https://www.estrategiasdeinversion.com/actualidad/noticias/bolsa-eeuu/wall-street-intenta-un-rebote-desde-minimos-con-n-558631",
+          "urlToImage":"https://www.estrategiasdeinversion.com/uploads/noticias_redaccion/Portada2/wall_street_3.jpg",
+          "publishedAt":"2022-09-28T13:30:00Z",
+          "content":"El DOW JONES sube un 0,19% en la apertura hasta marcar 29.191 puntos, mientras que el S&amp;P 500 avanza un 0,12%, en 3.651 puntos. El NASDAQ 100 baja un 0,09% hasta los 10.819 puntos.\r\nDurante la se… [+5609 chars]"
+       }
+    ]
+ }
